@@ -1,0 +1,9 @@
+@font-face {
+  font-family: 'MyWebFont';
+  src: url(../font/WCManoNegraBoldBta-webfont.eot);
+  src: url(../font/WCManoNegraBoldBta-webfont.eot?iefix) format("eot"), url(../font/WCManoNegraBoldBta-webfont.woff) format("woff"), url(../font/WCManoNegraBoldBta-webfont.ttf) format("truetype"), url(../font/WCManoNegraBoldBta-webfont.svg#webfont) format("svg"); }
+
+@font-face {
+  font-family: 'MyWebFontone';
+  src: url(../font/WCManoNegraBta-webfont.eot);
+  src: url(../font/WCManoNegraBta-webfont.eot?iefix) format("eot"), url(../font/WCManoNegraBta-webfont.woff) format("woff"), url(../font/WCManoNegraBta-webfont.ttf) format("truetype"), url(../font/WCManoNegraBta-webfont.svg#webfont) format("svg"); }
